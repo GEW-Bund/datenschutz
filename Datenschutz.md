@@ -19,7 +19,7 @@ Fax: 069/78973-201
 Die Datenschutzbeauftragte des Verantwortlichen ist:  
 **Frau Petra Eul-Löh**  
 HEC Harald Eul Consulting GmbH  
-E-Mail: ### datenschutz(at)gew(dot)de
+E-Mail: datenschutz(at)gew(dot)de
 
 **Tracking verhindern**
 
