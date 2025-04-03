@@ -1,17 +1,3 @@
-
-## Mein Testkapitel
-> Zitat
-
->> Zitat2
-
-* test
-  
-* **test**
-
-* _test_
-
-äüß11
-
 ## Präambel
 
 Der Schutz Ihrer Daten ist uns sehr wichtig. Daher möchten wir Sie nachfolgend informieren, welche Daten wir zu welchen Zwecken verwenden. Die Verantwortliche im Sinne der Datenschutz-Grundverordnung und anderer nationaler Datenschutzgesetze der Mitgliedsstaaten sowie sonstiger datenschutzrechtlicher Bestimmungen ist die:
@@ -26,10 +12,6 @@ Die Datenschutzbeauftragte des Verantwortlichen ist:
 **Frau Petra Eul-Löh**  
 HEC Harald Eul Consulting GmbH  
 E-Mail: [datenschutz(at)gew(dot)de](mailto:datenschutz@gew.de)
-
-**Tracking verhindern**
-
-_Nähere Informationen zum Analysewerkzeug MATOMO finden Sie weiter unten._
 
 ### Was sind personenbezogene Daten?
 
