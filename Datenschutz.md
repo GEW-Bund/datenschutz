@@ -224,9 +224,9 @@ Die Rechtsgrundlage für die Verarbeitung personenbezogener Daten unter Verwendu
 
 Zum Schutz ihrer Aufträge und Daten, die Sie über eines unserer Online-Formulare an uns übermitteln, verwendet die GEW den Dienst reCAPTCHA des Unternehmens Google Inc. (Google). Die Abfrage schließt den Versand der IP-Adresse und ggf. weiterer von Google für den Dienst reCAPTCHA benötigter Daten an Google ein. Zu diesem Zweck wird Ihre Eingabe an Google übermittelt und dort weiter verwendet. Durch die Nutzung von reCaptcha erklären Sie sich damit einverstanden, dass die von Ihnen geleistete Erkennung in die Digitalisierung alter Werke einfließt. Die im Rahmen von reCaptcha von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. Für diese Daten gelten die abweichenden Datenschutzbestimmungen des Unternehmens Google. Weitere Informationen zu den
 
-Datenschutzrichtlinien von Google finden Sie unter: ### www.google.com/intl/de/policies/privacy/.
+Datenschutzrichtlinien von Google finden Sie unter: <https://www.google.com/intl/de/policies/privacy/>.
 
-Google ist Teil des EU-US Privacy Shield: ### www.privacyshield.gov/participant
+Google ist Teil des EU-US Privacy Shield: <https://www.privacyshield.gov/>
 
 Die Abfrage mittels reCAPTCHA dient der Unterscheidung, ob die Eingabe durch einen Menschen oder missbräuchlich durch automatisierte, maschinelle Verarbeitung erfolgt. Dadurch werden ihre Daten vor Missbrauch geschützt. In diesen Zwecken liegt auch unser berechtigtes Interesse in der Verarbeitung der personenbezogenen Daten nach Art. 6 Abs. 1 lit. f DSGVO.
 
@@ -269,7 +269,7 @@ Wir verwenden auf einigen Seiten eine Applikation von OpenStreetMap zur Anzeige 
 
 Diese Information werden von der OSMF ausschließlich für die technische und qualitative Verbesserung der Funktionen von OpenStreetMap verwendet. In anonymisierter Form können zusammengefasste Informationen für gemeinnützige Forschungszwecke öffentlich über ### planet.openstreetmap.org verfügbar gemacht werden.
 
-Die Datenschutzinformationen von DISQUS finden Sie hier: <wiki.osmfoundation.org/wiki/Privacy_Policy>
+Die Datenschutzinformationen von DISQUS finden Sie hier: <https://wiki.osmfoundation.org/wiki/Privacy_Policy>
 
 Rechtsgrundlage für die Verarbeitung der Daten mit OpenStreetMapsn durch die Nutzerin oder den Nutzer ist Art. 6 Abs.1 lit a DSGVO.
 
