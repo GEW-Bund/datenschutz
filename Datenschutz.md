@@ -9,13 +9,13 @@ Gewerkschaft Erziehung und Wissenschaft Hauptvorstand
 Reifenbergerstraße 21
 60489 Frankfurt
 Telefon: 069/789730
-E-Mail: info@gew.de
+E-Mail: info[at]gew[at]de
 Kontaktdaten unseres Datenschutzbeauftragten:
 HEC Harald Eul Consulting GmbH
 Datenschutzbeauftragter GEW HV
 Auf der Höhe 34
 50321 Brühl
-dsb-gew-hv@he-c.de
+dsb-gew-hv[at]he-c[at]de
 
 ## 2.	Zwecke und Rechtsgrundlage, auf der wir Ihre Daten verarbeiten 
 Wir verarbeiten personenbezogene Daten im Einklang mit den Bestimmungen der Datenschutz-Grundverordnung (DSGVO), dem Bundesdatenschutzgesetz (BDSG) sowie anderen anwendbaren Datenschutzvorschriften (Details im Folgenden). Welche Daten im Einzelnen, ggf. auch unter Einsatz von Künstlicher Intelligenz (KI), verarbeitet und in welcher Weise genutzt werden, richtet sich maßgeblich nach den jeweils beantragten bzw. vereinbarten Dienstleistungen. Weitere Einzelheiten oder Ergänzungen zu den Zwecken der Datenverarbeitung können Sie den jeweiligen Ver-tragsunterlagen, Formularen, einer Einwilligungserklärung und/oder anderen Ihnen bereitgestellten Informationen (z. B. im Rahmen der Nutzung unserer Webseite oder unseren Geschäftsbedingungen) entnehmen. Darüber hinaus kann diese Datenschutzinformation von Zeit zu Zeit aktualisiert werden, wie Sie unserer Webseite https://www.gew.de/datenschutz entnehmen können.
