@@ -839,5 +839,6 @@ Rechtsgrundlage für die Verarbeitung der Daten ist bei Vorliegen einer Einwilli
 Rechtsgrundlage für die Verarbeitung der Daten, die im Zuge einer Übersendung einer E-Mail übermittelt werden, ist Art. 6 Abs. 1 lit. f DSGVO. Zielt der E-Mail-Kontakt auf den Abschluss eines Vertrages ab, so ist zusätzliche Rechtsgrundlage für die Verarbeitung Art. 6 Abs. 1 lit. b DSGVO.
  
 ## An wen kann ich mich wenden?
-Sie haben Fragen zu den bei uns gespeicherten Daten? Sie möchten ihre Einwilligung widerrufen, der Speicherung der Daten widersprechen, die bei uns gespeicherten Daten gelöscht oder korrigiert haben oder aber ihre Daten gern an eine andere Organisation übertragen lassen, dann wenden Sie sich bitte an ### datenschutz[at]gew[dot]de
+Sie haben Fragen zu den bei uns gespeicherten Daten? Sie möchten ihre Einwilligung widerrufen, der Speicherung der Daten widersprechen, die bei uns gespeicherten Daten gelöscht oder korrigiert haben oder aber ihre Daten gern an eine andere Organisation übertragen lassen, dann wenden Sie sich bitte an 
+### datenschutz[at]gew[dot]de
 
