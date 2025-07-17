@@ -204,9 +204,9 @@ Im Zeitpunkt der Nutzung von OpenSlides werden zudem folgende Daten gespeichert:
 •	Wortmeldung zur Tagesordnung (nur die Meldung an sich, nicht der Redeinhalt)
 •	Chatbeiträge
 
-Es erfolgt in diesem Zusammenhang keine Weitergabe der Daten an Dritte. Die Daten werden ausschließlich für die Durchführung des 29. Gewerkschaftstages der GEW verarbeitet.
+Es erfolgt in diesem Zusammenhang keine Weitergabe der Daten an Dritte.
 
-Die Verarbeitung der personenbezogenen Daten dient uns allein zur Durchführung des 29. Gewerkschaftstages der. Im Falle einer Kontaktaufnahme per E-Mail liegt hieran auch das erforderliche berechtigte Interesse an der Verarbeitung der Daten.
+Die Verarbeitung der personenbezogenen Daten dient uns allein zur Veranstaltungssoftware. Im Falle einer Kontaktaufnahme per E-Mail liegt hieran auch das erforderliche berechtigte Interesse an der Verarbeitung der Daten.
 
 Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind. Für die personenbezogenen Daten aus OpenSlides und diejenigen, die per E-Mail übersandt wurden, ist dies dann der Fall, wenn alle nötigen Berichte und Protokolle angefertigt wurden.
 
@@ -266,11 +266,11 @@ Alle personenbezogenen Daten, die im Zuge der Kontaktaufnahme gespeichert wurden
 ## Big Blue Button
 Auf der Internetseite https://bbb.gew.de ist die Big Blue Button (BBB, https://github.com/bigbluebutton/bigbluebutton) Videokonferenz eingebunden, welche verwendet wird, um u.a. Telefonkonferenzen, Online-Meetings, Videokonferenzen und/oder Online-Seminare (nachfolgend: Online-Meetings) durchzuführen.
 
-Die Firma 1blu business.de GmbH Nibelungenstr. 28, Riedemannweg 60 betreibt für den GEW-Hauptvorstand die Lösung von Big Blue Button auf eigenen Servern in Rechenzentren in Deutschland.
+DDie IBH IT-Service GmbH, Heilbronner Straße 20,01189 Dresden betreibt für den GEW-Hauptvorstand die Lösung von Big Blue Button auf eigenen Servern in Rechenzentren in Deutschland.
 
 Sie können BBB nutzen, wenn Sie zu einem Online-Meeting eingeladen werden. Es ist keine Installation einer Applikation erforderlich, der Aufruf kann über den Browser erfolgen.
 
-Medienströme der Meetings (Audio, Video, Bildschirminhalte, Chat) werden nur auf den Servern der Firma 1blu business.de GmbH verarbeitet.
+Medienströme der Meetings (Audio, Video, Bildschirminhalte, Chat) werden nur auf den Servern der Firma IBH IT-Service GmbH verarbeitet.
 
 Metadaten der Nutzerinnen und Nutzer und der Meetings werden in der BBB-Infrastruktur verarbeitet. Diese Daten können sein:
 •	Vor- und Nachname (optional Titel, optional Pseudonym)
