@@ -1,3 +1,24 @@
+Jetzt bist du in deinem eigenen branch, der unabhängig von "main" entwickelt werden kann. Die Änderungen werden erst dann auf der Webseite zu sehen sein, wenn dein branch all deine Änderungen ("commits") enthält und diese am Schluss ihre Weg in den "main" branch finden (das nennt man "merge"). 
+
+Den Merge übernimmt Stefan, die commits in eurem branch übernimmst du selbst.
+
+Bitte beachte:
+
+Markdown ist syntaktisch und logisch. Die überste Überschriftz ist die H2 ('##'), da es auf der Webseite bereits eine H1 gibt und die darf es nur einmal geben.
+
+H3 = ###
+H4 = ####
+
+fett = ***fett***
+
+Link = [Linktext](www.google.de)
+
+* Buleltpoint 1
+* Bulletpoint 2
+* usw.
+
+Danke :) 
+
 ## I. Datenschutzinformation
 
 ### Allgemeine Information zum Datenschutz über unsere Datenverarbeitung nach Artikel 13, 14 und 21 der Datenschutz- Grundverordnung (DSGVO)
