@@ -206,7 +206,8 @@ Die Firma Connect4Video GmbH, Nibelungenstr. 28, 65428 Rüsselsheim betreibt fü
 
 Zoom ist ein Service der Zoom Video Communications, Inc., die ihren Sitz in den USA hat.
 
-#### Hinweis: Zoom-Meetings des GEW-Hauptvorstandes sind Ende-zu-Ende verschlüsselt. Für die Teilnahme an Zoom-Meetings ist dafür allerdings der Zoom-Client erforderlich. Der Zoom-Client kann auf der Webseite von Zoom-USA (https://gew-de.zoom.us/download) heruntergeladen werden. Bei dem Besuch der Webseite werden Metadaten an Zoom-USA übertragen.
+***Hinweis: Zoom-Meetings des GEW-Hauptvorstandes sind Ende-zu-Ende verschlüsselt. Für die Teilnahme an Zoom-Meetings ist dafür allerdings der Zoom-Client erforderlich. Der Zoom-Client kann auf der Webseite von Zoom-USA (https://gew-de.zoom.us/download) heruntergeladen werden. Bei dem Besuch der Webseite werden Metadaten an Zoom-USA übertragen.***
+
 Sie können Zoom nutzen, wenn Sie die jeweilige Meeting-ID und ggf. weitere Zugangsdaten zum Meeting direkt in der Zoom-App eingeben.
 Medienströme der Meetings (Audio, Video, Bildschirminhalte, in-meeting Chat) werden nur auf den Servern der Firma Connect4Video verarbeitet.
 Metadaten der Nutzer und der Meetings werden in der Zoom Infrastruktur verarbeitet. Diese Daten sind:
@@ -320,7 +321,7 @@ Anbieter ist die Baden-Württembergische Bank eG mit Sitz Ludwig-Erhard-Allee 14
 
 Wenn du einen BBBank-Dienst nutzt, wird eine direkte Verbindung zwischen deinem Endgerät und dem Server der BBBank hergestellt. Die BBBank erhält dadurch die Information, dass du mit deiner IP-Adresse diese Website aufgerufen hast. Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch die BBBank erhalten.
 
-#### Die BBBank verwendet die im Rahmen der Dienste erhobenen Daten zur Bereitstellung, zur Wartung, zum Schutz und zur Verbesserung der Dienste, zur Entwicklung neuer Dienste sowie zum Schutz der BBBank und ihrer Kundinnen und Kunden.
+***Die BBBank verwendet die im Rahmen der Dienste erhobenen Daten zur Bereitstellung, zur Wartung, zum Schutz und zur Verbesserung der Dienste, zur Entwicklung neuer Dienste sowie zum Schutz der BBBank und ihrer Kundinnen und Kunden.***
 
 #### Rechtsgrundlage:
 Die Nutzung dieses Dienstes erfolgt auf Grundlage deiner Einwilligung (Art. 6 Abs. 1 lit. a DSGVO und § 25 Abs. 1 TDDDG), sofern eine solche abgefragt wurde. Die Einwilligung ist jederzeit widerrufbar. Alternativ kann die Verarbeitung auf Grundlage eines berechtigten Interesses (Art. 6 Abs. 1 lit. f DSGVO) erfolgen, etwa zur Präsentation unserer Inhalte oder zur Verbesserung der Nutzerfreundlichkeit.
@@ -349,7 +350,7 @@ Anbieter des Dienstes ist die Disqus, Inc. mit Sitz 301 Howard Street, Suite 300
 
 Wenn du Disqus nutzt, wird eine direkte Verbindung zwischen deinem Endgerät und dem Disqus-Server hergestellt. Disqus erhält dadurch die Information, dass du mit deiner IP-Adresse diese Website besucht hast oder einen Kommentar abgibst. Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch Disqus erhalten.
 
-#### Disqus verwendet die im Rahmen der Dienste erhobenen Daten zur Bereitstellung, zur Wartung, zum Schutz und zur Verbesserung der Dienste, zur Entwicklung neuer Dienste sowie zum Schutz von Disqus und seinen Nutzerinnen und Nutzern.
+***Disqus verwendet die im Rahmen der Dienste erhobenen Daten zur Bereitstellung, zur Wartung, zum Schutz und zur Verbesserung der Dienste, zur Entwicklung neuer Dienste sowie zum Schutz von Disqus und seinen Nutzerinnen und Nutzern.***
 
 #### Rechtsgrundlage:
 Die Nutzung dieses Dienstes erfolgt auf Grundlage deiner Einwilligung (Art. 6 Abs. 1 lit. a DSGVO und § 25 Abs. 1 TDDDG), sofern eine solche abgefragt wurde. Die Einwilligung ist jederzeit widerrufbar. Alternativ kann die Verarbeitung auf Grundlage eines berechtigten Interesses (Art. 6 Abs. 1 lit. f DSGVO) erfolgen, etwa zur Ermöglichung von Kommentaren und zur Verbesserung der Nutzerfreundlichkeit.
@@ -421,8 +422,11 @@ Das Unternehmen verfügt über eine Zertifizierung nach dem „EU-US Data Privac
 Die Google Analytics IP-Anonymisierung ist aktiviert. Dadurch wird deine IP-Adresse von Google innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum vor der Übermittlung in die USA gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um deine Nutzung der Website auszuwerten, Reports über die Websiteaktivitäten zusammenzustellen und weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber zu erbringen. Die im Rahmen von Google Analytics von deinem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt.
 
 ### Browser-Plugin
-Du kannst die Erfassung und Verarbeitung deiner Daten durch Google verhindern, indem du das unter dem folgenden Link verfügbare Browser-Plugin herunterlädst und installierst: https://tools.google.com/dlpage/gaoptout?hl=de.
-Mehr Informationen zum Umgang mit Nutzerdaten bei Google Analytics findest du in der Datenschutzerklärung von Google: https://support.google.com/analytics/answer/6004245?hl=de.
+Du kannst die Erfassung und Verarbeitung deiner Daten durch Google verhindern, indem du das unter dem folgenden Link verfügbare Browser-Plugin herunterlädst und installierst:
+https://tools.google.com/dlpage/gaoptout?hl=de.
+
+Mehr Informationen zum Umgang mit Nutzerdaten bei Google Analytics findest du in der Datenschutzerklärung von Google:
+https://support.google.com/analytics/answer/6004245?hl=de.
 
 ### Google-Signale
 Wir nutzen Google-Signale. Wenn du unsere Website besuchst, erfasst Google Analytics u. a. deinen Standort, Suchverlauf und YouTube-Verlauf sowie demografische Daten (Besucherdaten). Diese Daten können mit Hilfe von Google-Signal für personalisierte Werbung verwendet werden. Wenn du über ein Google-Konto verfügst, werden die Besucherdaten von Google-Signal mit deinem Google-Konto verknüpft und für personalisierte Werbebotschaften verwendet. Die Daten werden außerdem für die Erstellung anonymisierter Statistiken zum Nutzerverhalten unserer User verwendet.
