@@ -1,29 +1,45 @@
 ## I. Datenschutzinformation
 
 ### Allgemeine Information zum Datenschutz über unsere Datenverarbeitung nach Artikel 13, 14 und 21 der Datenschutz- Grundverordnung (DSGVO)
+
 (Stand 17.Juli 2025)
  
 ### 1.	Für die Datenverarbeitung verantwortliche Stelle und Kontaktdaten
+
 verantwortliche Stelle im Sinne des Datenschutzrechts
+
 Gewerkschaft Erziehung und Wissenschaft Hauptvorstand
+
 Reifenbergerstraße 21
+
 60489 Frankfurt
+
 Telefon: 069/789730
-E-Mail: info[at]gew[at]de
+
+E-Mail: [info[at]gew.de](mailto:info@gew.de)
+
 Kontaktdaten unseres Datenschutzbeauftragten:
+
 HEC Harald Eul Consulting GmbH
+
 Datenschutzbeauftragter GEW HV
+
 Auf der Höhe 34
+
 50321 Brühl
-dsb-gew-hv[at]he-c[at]de
+
+[dsb-gew-hv[at]he-c.de](mailto:dsb-gew-hv@he-c.de)
 
 ### 2.	Zwecke und Rechtsgrundlage, auf der wir Ihre Daten verarbeiten 
+
 Wir verarbeiten personenbezogene Daten im Einklang mit den Bestimmungen der Datenschutz-Grundverordnung (DSGVO), dem Bundesdatenschutzgesetz (BDSG) sowie anderen anwendbaren Datenschutzvorschriften (Details im Folgenden). Welche Daten im Einzelnen, ggf. auch unter Einsatz von Künstlicher Intelligenz (KI), verarbeitet und in welcher Weise genutzt werden, richtet sich maßgeblich nach den jeweils beantragten bzw. vereinbarten Dienstleistungen. Weitere Einzelheiten oder Ergänzungen zu den Zwecken der Datenverarbeitung können Sie den jeweiligen Ver-tragsunterlagen, Formularen, einer Einwilligungserklärung und/oder anderen Ihnen bereitgestellten Informationen (z. B. im Rahmen der Nutzung unserer Webseite oder unseren Geschäftsbedingungen) entnehmen. Darüber hinaus kann diese Datenschutzinformation von Zeit zu Zeit aktualisiert werden, wie Sie unserer Webseite https://www.gew.de/datenschutz entnehmen können.
 
 #### 2.1	Zwecke zur Erfüllung eines Vertrages oder von vorvertraglichen Maßnahmen (Art. 6 Abs. 1 b DSGVO)
+
 Die Verarbeitung personenbezogener Daten erfolgt zur Durchführung unserer Verträge mit Ihnen und der Ausführung Ihrer Aufträge sowie zur Durchführung von Maßnahmen und Tätigkeiten im Rahmen vorvertragli-cher Beziehungen, z.B. mit Interessenten. Insbesondere dient die Verar-beitung damit der Erbringung von Leistungen, die auf einer Mitgliedschaft bei uns beruhen, entsprechend Ihren Aufträgen und Wünschen und umfassen die hierfür notwendigen Dienstleistungen, Maßnahmen und Tätigkeiten. Dazu gehören im Wesentlichen die vertragsbezogene Kom-munikation mit Ihnen, die entsprechende Abrechnung und damit verbun-dene Zahlungstransaktionen, Bonitätsprüfungen, die Nachweisbarkeit von Transaktionen, Aufträgen und sonstigen Vereinbarungen sowie zur Qualitätskontrolle durch entsprechende Dokumentation, Kulanzverfah-ren, Maßnahmen zur Steuerung und Optimierung von Geschäftsprozes-sen sowie zur Erfüllung der allgemeinen Sorgfaltspflichten, Steuerung und Kontrolle durch verbundene Unternehmen (z. B. Muttergesellschaft); statistische Auswertungen zur Unternehmenssteuerung, Kostenerfas-sung und Controlling, Berichtswesen, interne und externe Kommunikati-on, Notfall-Management, Abrechnung und steuerliche Bewertung be-trieblicher Leistungen, Risikomanagement, Geltendmachung rechtlicher Ansprüche und Verteidigung bei rechtlichen Streitigkeiten; Gewährleis-tung der IT-Sicherheit (u. a. System- bzw. Plausibilitätstests) und der allgemeinen Sicherheit, u. a. Gebäude- und Anlagensicherheit, Sicherstel-lung und Wahrnehmung des Hausrechts (z. B. durch Zutrittskontrollen); Gewährleistung der Integrität, Authentizität und Verfügbarkeit der Daten, Verhinderung und Aufklärung von Straftaten; Kontrolle durch Aufsichts-gremien oder Kontrollinstanzen (z. B. Revision).
 
 #### 2.2	Zwecke im Rahmen eines berechtigten Interesses von uns oder Dritten (Art. 6 Abs. 1 f DSGVO)
+
 Über die eigentliche Erfüllung des Vertrages bzw. Vorvertrags hinaus verarbeiten wir Ihre Daten gegebenenfalls, wenn es er-forderlich ist, um berechtigte Interessen von uns oder Dritten zu wahren, insbesondere für Zwecke:
 * der Werbung oder Markt- und Meinungsforschung, so-weit Sie der Nutzung Ihrer Daten nicht widersprochen haben;
 *	der Einholung von Auskünften sowie Datenaustausch mit Auskunfteien, soweit dies über unser wirtschaftli-ches Risiko hinausgeht;
@@ -47,13 +63,16 @@ Die Verarbeitung personenbezogener Daten erfolgt zur Durchführung unserer Vertr
 *	der Sicherstellung und Wahrnehmung des Hausrechts durch entsprechende Maßnahmen wie auch durch Video-überwachungen zum Schutz unserer Kunden und Mitarbei-ter sowie zur Sicherung von Beweismitteln bei Straftaten und deren Verhinderung 
 
 #### 2.3	Zwecke im Rahmen Ihrer Einwilligung (Art. 6 Abs. 1 a DSGVO)
+
 Eine Verarbeitung Ihrer personenbezogenen Daten für bestimm-te Zwecke (z. B. Nutzung Ihrer E-Mail-Adresse für Marketingzwe-cke) kann auch aufgrund Ihrer Einwilligung erfolgen. In der Regel können Sie diese jederzeit widerrufen. Über die Zwecke und über die Konsequenzen eines Widerrufs oder der Nichterteilung einer Einwilligung werden Sie gesondert im entsprechenden Text der Einwilligung informiert.
 Grundsätzlich gilt, dass der Widerruf einer Einwilligung erst für die Zukunft wirkt. Verarbeitungen, die vor dem Widerruf erfolgt sind, sind davon nicht betroffen und bleiben rechtmäßig.
 
 #### 2.4	Zwecke zur Erfüllung gesetzlicher Vorgaben (Art. 6 Abs. 1 c DSGVO) oder im öffentlichen Interesse (Art. 6 Abs. 1 e DSGVO)
+
 Wie jeder, der sich am Wirtschaftsgeschehen beteiligt, unterliegen auch wir einer Vielzahl von rechtlichen Verpflichtungen. Primär sind dies gesetzliche Anforderungen (z. B. Handels- und Steuergeset-ze), aber auch ggf. aufsichtsrechtliche oder andere behördliche Vorgaben. Zu den Zwecken der Verarbeitung gehören ggf. die Iden-titäts- und Altersprüfung, Betrugs- und Geldwäscheprävention, die Verhinderung, Bekämpfung und Aufklärung der Terrorismusfinan-zierung und vermögensgefährdender Straftaten, Abgleiche mit eu-ropäischen und internationalen Antiterrorlisten, die Erfüllung steu-errechtlicher Kontroll- und Meldepflichten sowie die Archivierung von Daten zu Zwecken des Datenschutzes und der Datensicherheit sowie der Prüfung durch Steuer- und andere Behörden. Darüber hinaus kann die Offenlegung personenbezogener Daten im Rah-men von behördlichen/gerichtlichen Maßnahmen zu Zwecken der Beweiserhebung, Strafverfolgung oder Durchsetzung zivilrechtli-cher Ansprüche erforderlich werden.
 
 ### 3.	Die von uns verarbeiteten Datenkategorien, soweit wir Daten nicht unmittelbar von Ihnen erhalten, und deren Herkunft
+
 Soweit dies für die Erbringung unserer Dienstleistungen erfor-derlich ist, verarbeiten wir von anderen Unternehmen oder sonstigen Dritten (z. B. Auskunfteien, Adressverlage, GEW-Landesverbände, Gliederungen der GEW, der DGB Rechtsschutz GmbH) zulässigerweise erhaltene personenbezogene Daten. Zudem verarbeiten wir personenbezogene Daten, die wir aus öffentlich zugänglichen Quellen (wie z.B. Telefonverzeichnisse, Handels- und Vereinsregister, Melderegister, Schuldnerver-zeichnisse, Grundbücher, Presse, Internet und andere Medien) zulässigerweise entnommen, erhalten oder erworben haben und verarbeiten dürfen. 
 
 Relevante personenbezogene Datenkategorien können insbeson-dere sein:
@@ -69,6 +88,7 @@ Relevante personenbezogene Datenkategorien können insbeson-dere sein:
 *	GEW-Mitgliedsdaten 
 
 ### 4.	Empfänger oder Kategorien von Empfängern Ihrer Daten
+
 Innerhalb unseres Hauses erhalten diejenigen internen Stellen bzw. Organisationseinheiten Ihre Daten, die diese zur Erfüllung unserer vertraglichen und gesetzlichen Pflichten oder im Rahmen der Bearbeitung und Umsetzung unseres berechtigten Interes-ses benötigen. Eine Weitergabe Ihrer Daten an externe Stellen erfolgt ausschließlich
 *	im Zusammenhang mit der Vertragsabwicklung;
 *	zu Zwecken der Erfüllung gesetzlicher Vorgaben, nach denen wir zur Auskunft, Meldung oder Weitergabe von Daten verpflichtet sind oder die Datenweiterga-be im öffentlichen Interesse liegt (vgl. Ziffer 2.4); 
@@ -79,6 +99,7 @@ Innerhalb unseres Hauses erhalten diejenigen internen Stellen bzw. Organisations
 Wir werden Ihre Daten darüber hinaus nicht an Dritte weitergeben. Soweit wir Dienstleister im Rahmen einer Auftragsverarbeitung be-auftragen, unterliegen Ihre Daten dort den gleichen Sicherheits-standards wie bei uns. In den übrigen Fällen dürfen die Empfänger die Daten nur für die Zwecke nutzen, für die sie ihnen übermittelt wurden.
 
 ### 5.	Dauer der Speicherung Ihrer Daten 
+
 Wir verarbeiten und speichern Ihre Daten für die Dauer unserer Geschäftsbeziehung. Das schließt auch die Anbahnung eines Vertrages (vorvertragliches Rechtsverhältnis) und die Abwicklung eines Vertrages mit ein.
 
 Darüber hinaus unterliegen wir verschiedenen Aufbewahrungs- und Dokumentationspflichten, die sich u. a. aus dem Handels-gesetzbuch (HGB) und der Abgabenordnung (AO), ergeben. Die dort vorgegebenen Fristen zur Aufbewahrung bzw. Dokumenta-tion betragen bis zehn Jahre über das Ende der Geschäftsbe-ziehung bzw. des vorvertraglichen Rechtsverhältnisses hinaus.
@@ -88,10 +109,12 @@ Ferner können spezielle gesetzliche Vorschriften eine längere Aufbewahrungsdau
 Sind die Daten für die Erfüllung vertraglicher oder gesetzlicher Pflichten und Rechte nicht mehr erforderlich, werden diese re-gelmäßig gelöscht, es sei denn, deren - befristete - Weiterverar-beitung ist zur Erfüllung der unter Ziffer 2.2 aufgeführten Zwe-cke aus einem überwiegenden berechtigten Interesse erforder-lich. Ein solches überwiegendes berechtigtes Interesse liegt z.B. auch dann vor, wenn eine Löschung wegen der besonderen Art der Speicherung nicht oder nur mit unverhältnismäßig hohem Aufwand möglich ist und eine Verarbeitung zu anderen Zwecken durch geeignete technische und organisatorische Maßnahmen ausgeschlossen ist.
 
 ### 6.	Verarbeitung Ihrer Daten in einem Drittland oder durch eine internationale Organisation 
+
 Eine Datenübermittlung an Stellen in Staaten außerhalb der Eu-ropäischen Union (EU) bzw. des Europäischen Wirtschaftsraums (EWR) (sogenannte Drittländer) erfolgt dann, wenn es zur Aus-führung eines Auftrages/Vertrags von bzw. mit Ihnen erforder-lich sein sollte, es gesetzlich vorgeschrieben ist (z.B. steuer-rechtliche Meldepflichten), es im Rahmen eines berechtigten Interesses von uns oder eines Dritten liegt oder Sie uns eine Einwilligung erteilt haben.
 Dabei kann die Verarbeitung Ihrer Daten in einem Drittland auch im Zusammenhang mit der Einschaltung von Dienstleistern im Rahmen der Auftragsverarbeitung erfolgen. Soweit für das be-treffende Land oder für spezifische Sektoren in einem Drittland kein Beschluss der EU-Kommission über ein dort bestehendes angemessenes Datenschutzniveau vorliegen sollte, können ent-sprechende Verträge (wie EU-Standardverträge) und zusätzliche Maßnahmen als Grundlage für die Übermittlung zum Einsatz kommen. Informationen zu den geeigneten oder angemessenen Garantien und zu der Möglichkeit, eine Kopie von Ihnen zu er-halten, können auf Anfrage beim betrieblichen Datenschutzbe-auftragten angefordert werden.
 
 ### 7.	Ihre Datenschutzrechte 
+
 Unter bestimmten Voraussetzungen können Sie uns gegenüber Ih-re Datenschutzrechte geltend machen
 
 *	So haben Sie das Recht, von uns Auskunft über Ihre bei uns gespeicherten Daten nach den Regeln von Art. 15 DSGVO (ggf. mit Einschränkungen nach § 34 BDSG) zu erhalten.
@@ -106,9 +129,11 @@ Unter bestimmten Voraussetzungen können Sie uns gegenüber Ih-re Datenschutzrec
 Ihre Anträge über die Ausübung ihrer Rechte sollten nach Möglichkeit schriftlich an die oben angegebene Anschrift oder direkt an unseren Datenschutzbeauftragten adressiert wer-den.
 
 ### 8.	Umfang Ihrer Pflichten, uns Ihre Daten bereitzustellen
+
 Sie brauchen nur diejenigen Daten bereitstellen, die für die Auf-nahme und Durchführung einer Geschäftsbeziehung oder für ein vorvertragliches Verhältnis mit uns erforderlich sind oder zu deren Erhebung wir gesetzlich verpflichtet sind. Ohne diese Daten wer-den wir in der Regel nicht in der Lage sein, den Vertrag zu schließen oder auszuführen. Dies kann sich auch auf später im Rahmen der Geschäftsbeziehung erforderliche Daten beziehen. Sofern wir dar-über hinaus Daten von Ihnen erbitten, werden Sie auf die Freiwillig-keit der Angaben gesondert hingewiesen.
 
 ### 9.	Bestehen einer automatisierten Entscheidungsfindung im Einzelfall (einschließlich Profiling)
+
 Wir setzen keine rein automatisierten Entscheidungsverfahren gemäß Artikel 22 DSGVO ein. Sofern wir ein solches Verfahren zukünftig in Einzelfällen doch einsetzen sollten, werden wir Sie hierüber gesondert informieren, sofern dies gesetzlich vorge-geben ist.
 
 Unter Umständen verarbeiten wir Ihre Daten teilweise mit dem Ziel, bestimmte persönliche Aspekte zu bewerten (Profiling). 
@@ -127,9 +152,12 @@ Ihre Daten werden wir nicht mehr für Zwecke der Direktwerbung verarbeiten, wenn
 Der Widerspruch kann formfrei erfolgen und sollte möglichst gerichtet werden an
 
 Gewerkschaft Erziehung und Wissenschaft Haupt-vorstand
+
 Reifenberger Straße 21
+
 60489 Frankfurt am Main
-Datenschutz[at]gew[dot]de
+
+[datenschutz[at]gew.de](mailto:datenschutz@gew.de)
 
 Unsere Datenschutzerklärung sowie die Information zum Datenschutz über unsere Datenverarbeitung nach Artikel (Art.) 13, 14 und 21 DSGVO kann sich von Zeit zu Zeit ändern. Alle Änderungen werden wir auf dieser Seite veröffentlichen.  
 
@@ -138,24 +166,37 @@ Stand Datenschutzinformation 17.07.2025
 ## II.Datenschutzerklärung für die Website
 
 ### Präambel
+
 Der Schutz Ihrer Daten ist uns sehr wichtig. Daher möchten wir Sie nachfolgend informieren, welche Daten wir zu welchen Zwecken verwenden. Die Verantwortliche im Sinne der Datenschutz-Grundverordnung und anderer nationaler Datenschutzgesetze der Mitgliedsstaaten sowie sonstiger datenschutzrechtlicher Bestimmungen ist die:
+
 Gewerkschaft Erziehung und Wissenschaft (GEW)
+
 Reifenberger Straße 21
+
 60489 Frankfurt am Main
+
 Tel.: 069/78973-0
+
 Fax: 069/78973-201
+
 Die Datenschutzbeauftragte des Verantwortlichen ist:
+
 Frau Petra Eul-Löh
+
 HEC Harald Eul Consulting GmbH
-E-Mail: datenschutz(at)gew(dot)de
+
+E-Mail: [dsb-gew-hv[at]he-c.de](mailto:dsb-gew-hv@he-c.de)
 
 ### Was sind personenbezogene Daten?
+
 Personenbezogene Daten sind Informationen, mit deren Hilfe eine Person bestimmbar ist, also Angaben, die zurück zu einer Person verfolgt werden können. Dazu gehören der Name, die Emailadresse oder die Telefonnummer. Aber auch Daten über Vorlieben, Hobbies, Mitgliedschaften oder welche Webseiten von jemandem angesehen wurden zählen zu personenbezogenen Daten.
 
 ### Welche Daten erhebt die GEW?
+
 Wir erheben und verwenden personenbezogene Daten unserer Nutzer und Mitglieder grundsätzlich nur, soweit dies zur Bereitstellung einer funktionsfähigen Website sowie zur Verfügungstellung unserer Inhalte und Leistungen erforderlich ist. Personenbezogene Daten werden von dem Anbieter nur dann erhoben, genutzt und weiter gegeben, wenn dies gesetzlich erlaubt ist oder die Nutzer in die Datenerhebung einwilligen. Eine Ausnahme gilt in solchen Fällen, in denen eine vorherige Einholung einer Einwilligung aus tatsächlichen Gründen nicht möglich ist und die Verarbeitung der Daten durch gesetzliche Vorschriften gestattet ist.
 
 ### Rechtsgrundlage für die Verarbeitung personenbezogener Daten
+
 Soweit wir für Verarbeitungsvorgänge personenbezogener Daten eine Einwilligung der betroffenen Person einholen, dient Art. 6 Abs. 1 lit. a EU-Datenschutzgrundverordnung (DSGVO) als Rechtsgrundlage für die Verarbeitung personenbezogener Daten.
 Bei der Verarbeitung von personenbezogenen Daten, die zur Erfüllung eines Vertrages, dessen Vertragspartei die betroffene Person ist, erforderlich ist, dient Art. 6 Abs. 1 lit. b DSGVO als Rechtsgrundlage. Dies gilt auch für Verarbeitungsvorgänge, die zur Durchführung vorvertraglicher Maßnahmen erforderlich sind.
 Soweit eine Verarbeitung personenbezogener Daten zur Erfüllung einer rechtlichen Verpflichtung erforderlich ist, der unser Unternehmen unterliegt, dient Art. 6 Abs. 1 lit. c DSGVO als Rechtsgrundlage.
@@ -163,14 +204,17 @@ Für den Fall, dass lebenswichtige Interessen der betroffenen Person oder einer 
 Ist die Verarbeitung zur Wahrung eines berechtigten Interesses unseres Unternehmens oder eines Dritten erforderlich und überwiegen die Interessen, Grundrechte und Grundfreiheiten des Betroffenen das erstgenannte Interesse nicht, so dient Art. 6 Abs. 1 lit. f DSGVO als Rechtsgrundlage für die Verarbeitung.
 
 ### Löschen oder Sperren von Daten
+
 Die personenbezogenen Daten der betroffenen Person werden gelöscht oder gesperrt, sobald der Zweck der Speicherung entfällt. Eine Speicherung kann darüber hinaus dann erfolgen, wenn dies durch den europäischen oder nationalen Gesetzgeber in unionsrechtlichen Verordnungen, Gesetzen oder sonstigen Vorschriften, denen der Verantwortliche unterliegt, vorgesehen wurde. Eine Sperrung oder Löschung der Daten erfolgt auch dann, wenn eine durch die genannten Normen vorgeschriebene Speicherfrist abläuft, es sei denn, dass eine Erforderlichkeit zur weiteren Speicherung der Daten für einen Vertragsabschluss oder eine Vertragserfüllung besteht.
 
 ### Klaro!
+
 Auf unserer Webseite verwenden wir das Consent-Management-Tool Klaro!, um dich transparent über die Nutzung von Cookies und anderen Technologien zu informieren und deine Einwilligungen zu verwalten. Klaro! ist ein Open-Source-Tool, das von KIProtect GmbH, Bismarckstr. 10-12, 10625 Berlin, entwickelt wird. Mit Klaro! kannst du selbst bestimmen, welchen Diensten und Cookies du zustimmst und deine Einstellungen jederzeit anpassen oder widerrufen.
 Wenn du unsere Webseite besuchst, speichert Klaro! deine Einwilligungsentscheidung in einem sogenannten Consent-Cookie auf deinem Endgerät. In diesem Cookie werden ausschließlich Informationen über die von dir gewählten Einstellungen gespeichert – es werden keine weiteren personenbezogenen Daten erhoben oder an Dritte weitergegeben. Die Speicherung des Consent-Cookies erfolgt für einen Zeitraum von maximal zwölf Monaten, damit deine Einstellungen bei zukünftigen Besuchen automatisch erkannt werden.
 Die Nutzung von Klaro! erfolgt auf Grundlage unseres berechtigten Interesses gemäß Art. 6 Abs. 1 lit. f DSGVO, dir eine datenschutzkonforme und transparente Verwaltung deiner Einwilligungen zu ermöglichen. Du kannst deine Einwilligung jederzeit über das Consent-Tool auf unserer Webseite anpassen oder widerrufen. Weitere Informationen zum Datenschutz bei Klaro! findest du in der Datenschutzerklärung des Anbieters: https://kiprotect.com/de/privacy.
 
 ### OpenSlides
+
 Im Rahmen des Webauftrittes der GEW wird die Veranstaltungssoftware OpenSlides eingebunden, welche zur digitalen Teilnahme an Gremiensitzungen der Gewerkschaft Erziehung und Wissenschaft (GEW) genutzt wird. Dabei werden Daten erhoben. Diese Daten sind:
 * Titel
 * Vorname
@@ -246,6 +290,7 @@ Der Nutzer hat jederzeit die Möglichkeit, seine Einwilligung zur Verarbeitung d
 Alle personenbezogenen Daten, die im Zuge der Kontaktaufnahme gespeichert wurden, werden in diesem Fall gelöscht.
 
 ### Big Blue Button
+
 Auf der Internetseite https://bbb.gew.de ist die Big Blue Button (BBB, https://github.com/bigbluebutton/bigbluebutton) Videokonferenz eingebunden, welche verwendet wird, um u.a. Telefonkonferenzen, Online-Meetings, Videokonferenzen und/oder Online-Seminare (nachfolgend: Online-Meetings) durchzuführen.
 
 DDie IBH IT-Service GmbH, Heilbronner Straße 20,01189 Dresden betreibt für den GEW-Hauptvorstand die Lösung von Big Blue Button auf eigenen Servern in Rechenzentren in Deutschland.
@@ -278,6 +323,7 @@ Der Nutzer hat jederzeit die Möglichkeit, seine Einwilligung zur Verarbeitung d
 Alle personenbezogenen Daten, die im Zuge der Kontaktaufnahme gespeichert wurden, werden in diesem Fall gelöscht.
 
 ### Bereitstellung der Webseite und Erstellung von Logfiles
+
 Bei jedem Aufruf unserer Internetseite erfasst unser System automatisiert Daten und Informationen vom Computersystem des aufrufenden Computers.
 
 Folgende Daten werden hierbei erhoben:
@@ -299,16 +345,20 @@ Die Erfassung der Daten zur Bereitstellung der Website und die Speicherung der D
 Rechtsgrundlage für die vorübergehende Speicherung der Daten und der Logfiles ist Art.6 Abs. 1 lit.f DSGVO.
 
 ### Redaktionelle Aufbereitung mit Datawrapper
-Mit Dienst von Datawrapper erstellen wir Infografiken für unsere Beiträge. Wenn Du diese Infografiken aufrufst, werden zwar generelle Nutzungsdaten erfasst, aber keine spezifischen Daten wie etwa Deine IP-Adresse gespeichert. Auch darüber hinaus werden von Datawrapper keine Daten erhoben oder gar an kommerzielle Dritte weitergegeben. Mehr zum Datenschutz beim Datawrapper findest Du ### hier.
+
+Mit Dienst von Datawrapper erstellen wir Infografiken für unsere Beiträge. Wenn Du diese Infografiken aufrufst, werden zwar generelle Nutzungsdaten erfasst, aber keine spezifischen Daten wie etwa Deine IP-Adresse gespeichert. Auch darüber hinaus werden von Datawrapper keine Daten erhoben oder gar an kommerzielle Dritte weitergegeben. Mehr zum Datenschutz beim Datawrapper findest Du auf [https://www.datawrapper.de/privacy](https://www.datawrapper.de/privacy)
 
 ### Redaktionelle Aufbereitung mit CANVA
-Mit Dienst von CANVA erstellen wir Infografiken für unsere Beiträge. Wenn Du diese Infografiken aufrufst, werden zwar generelle Nutzungsdaten erfasst, aber keine spezifischen Daten wie etwa Deine IP-Adresse. Auch darüber hinaus werden von CANVA keine Daten erhoben oder gar an kommerzielle Dritte weitergegeben. 
+
+Mit Dienst von CANVA erstellen wir Infografiken für unsere Beiträge. Wenn Du diese Infografiken aufrufst, werden zwar generelle Nutzungsdaten erfasst, aber keine spezifischen Daten wie etwa Deine IP-Adresse. Auch darüber hinaus werden von CANVA keine Daten erhoben oder gar an kommerzielle Dritte weitergegeben. Mehr zum Datenschutz bei CANVA findest Du auf [https://www.canva.com/de_de/richtlinien/privacy-policy/](https://www.canva.com/de_de/richtlinien/privacy-policy/).
 
 ### Nutzung von Inhalten oder Diensten der BBBank
+
 Wir binden auf einigen Seiten Inhalte oder Dienste der BBBank (Baden-Württembergische Bank eG) ein oder ermöglichen eine Verbindung zu deren Online-Angeboten. Beim Nutzen dieser Inhalte oder Dienste können personenbezogene Daten an die BBBank übertragen werden.
 Anbieter ist die Baden-Württembergische Bank eG mit Sitz Ludwig-Erhard-Allee 14, 76131 Karlsruhe, Deutschland.
 
 #### Folgende Daten können an die BBBank übertragen werden:
+
 * die besuchte Webseite
 * das Datum und die Uhrzeit
 * Informationen zum Browser
@@ -324,20 +374,25 @@ Wenn du einen BBBank-Dienst nutzt, wird eine direkte Verbindung zwischen deinem 
 ***Die BBBank verwendet die im Rahmen der Dienste erhobenen Daten zur Bereitstellung, zur Wartung, zum Schutz und zur Verbesserung der Dienste, zur Entwicklung neuer Dienste sowie zum Schutz der BBBank und ihrer Kundinnen und Kunden.***
 
 #### Rechtsgrundlage:
+
 Die Nutzung dieses Dienstes erfolgt auf Grundlage deiner Einwilligung (Art. 6 Abs. 1 lit. a DSGVO und § 25 Abs. 1 TDDDG), sofern eine solche abgefragt wurde. Die Einwilligung ist jederzeit widerrufbar. Alternativ kann die Verarbeitung auf Grundlage eines berechtigten Interesses (Art. 6 Abs. 1 lit. f DSGVO) erfolgen, etwa zur Präsentation unserer Inhalte oder zur Verbesserung der Nutzerfreundlichkeit.
 
 #### Datenübertragung außerhalb der EU:
+
 Die BBBank verarbeitet Daten in der Regel ausschließlich innerhalb der Europäischen Union. Sollte es im Einzelfall zu einer Datenübermittlung in Drittländer kommen, erfolgt diese auf Grundlage der Standardvertragsklauseln der EU-Kommission oder anderer angemessener Garantien.
 
 #### Datenschutzrichtlinien:
+
 Weitere Informationen zum Umgang mit Nutzerdaten bei der BBBank findest du in der Datenschutzerklärung des Anbieters unter:
 https://www.bbbank.de/datenschutz 
 
 ### Eingebettete Kommentarsysteme von Disqus
+
 Wir binden auf einigen Seiten das Kommentarsystem Disqus ein, um dir die Möglichkeit zu geben, Beiträge zu kommentieren und mit anderen Nutzerinnen und Nutzern zu interagieren. Beim Ansehen oder Nutzen des Disqus-Systems können Daten an Disqus übertragen werden.
 Anbieter des Dienstes ist die Disqus, Inc. mit Sitz 301 Howard Street, Suite 300, San Francisco, CA 94105, USA.
 
 #### Folgende Daten können an Disqus übertragen werden:
+
 * die besuchte Webseite
 * das Datum und die Uhrzeit
 * Informationen zum Browser
@@ -353,14 +408,17 @@ Wenn du Disqus nutzt, wird eine direkte Verbindung zwischen deinem Endgerät und
 ***Disqus verwendet die im Rahmen der Dienste erhobenen Daten zur Bereitstellung, zur Wartung, zum Schutz und zur Verbesserung der Dienste, zur Entwicklung neuer Dienste sowie zum Schutz von Disqus und seinen Nutzerinnen und Nutzern.***
 
 #### Rechtsgrundlage:
+
 Die Nutzung dieses Dienstes erfolgt auf Grundlage deiner Einwilligung (Art. 6 Abs. 1 lit. a DSGVO und § 25 Abs. 1 TDDDG), sofern eine solche abgefragt wurde. Die Einwilligung ist jederzeit widerrufbar. Alternativ kann die Verarbeitung auf Grundlage eines berechtigten Interesses (Art. 6 Abs. 1 lit. f DSGVO) erfolgen, etwa zur Ermöglichung von Kommentaren und zur Verbesserung der Nutzerfreundlichkeit.
 
 #### Datenübertragung außerhalb der EU:
+
 Disqus verarbeitet Daten in den USA und anderen Ländern außerhalb der Europäischen Union. Die Datenübermittlung erfolgt auf Grundlage der Standardvertragsklauseln der EU-Kommission oder anderer angemessener Garantien.
 
 Ob Disqus aktuell am EU-US Data Privacy Framework (DPF) teilnimmt, kannst du der Datenschutzerklärung von Disqus entnehmen.
 
 #### Datenschutzrichtlinien:
+
 Weitere Informationen zum Umgang mit Nutzerdaten bei Disqus findest du in der Datenschutzerklärung des Anbieters unter:
 https://help.disqus.com/terms-and-policies/disqus-privacy-policy
 
@@ -407,21 +465,26 @@ Cookies werden auf dem Rechner des Nutzers gespeichert und von diesem an unserer
 Die Rechtsgrundlage für die Verarbeitung personenbezogener Daten unter Verwendung von Cookies ist Art. 6 Abs. 1 lit. f DSGVO.
 
 ### IP-Anonymisierung
+
 Bei der Analyse mit Matomo setzen wir IP-Anonymisierung ein. Hierbei wird Ihre IP-Adresse vor der Analyse gekürzt, sodass Sie Ihnen nicht mehr eindeutig zuordenbar ist.
 
 ### Hosting
+
 Wir hosten Matomo ausschließlich auf unseren eigenen Servern, sodass alle Analysedaten bei uns verbleiben und nicht weitergegeben werden.
 
 ### Google Tag Manager
+
 Wir setzen den Google Tag Manager ein. Anbieter ist die Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland.
 Der Google Tag Manager ist ein Tool, mit dessen Hilfe wir Tracking- oder Statistik-Tools und andere Technologien auf unserer Website einbinden können. Der Google Tag Manager selbst erstellt keine Nutzerprofile, speichert keine Cookies und nimmt keine eigenständigen Analysen vor. Er dient lediglich der Verwaltung und Ausspielung der über ihn eingebundenen Tools. Der Google Tag Manager erfasst jedoch deine IP-Adresse, die auch an das Mutterunternehmen von Google in die Vereinigten Staaten übertragen werden kann.
 Der Einsatz des Google Tag Managers erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Wir haben ein berechtigtes Interesse an einer schnellen und unkomplizierten Einbindung und Verwaltung verschiedener Tools auf unserer Website. Sofern eine entsprechende Einwilligung abgefragt wurde, erfolgt die Verarbeitung ausschließlich auf Grundlage von Art. 6 Abs. 1 lit. a DSGVO und § 25 Abs. 1 TDDDG, soweit die Einwilligung die Speicherung von Cookies oder den Zugriff auf Informationen im Endgerät des Nutzers (z. B. Device-Fingerprinting) im Sinne des TDDDG umfasst. Die Einwilligung ist jederzeit widerrufbar.
 Das Unternehmen verfügt über eine Zertifizierung nach dem „EU-US Data Privacy Framework“ (DPF). Der DPF ist ein Übereinkommen zwischen der Europäischen Union und den USA, der die Einhaltung europäischer Datenschutzstandards bei Datenverarbeitungen in den USA gewährleisten soll. Jedes nach dem DPF zertifizierte Unternehmen verpflichtet sich, diese Datenschutzstandards einzuhalten. Weitere Informationen hierzu erhältst du vom Anbieter unter folgendem Link: https://www.dataprivacyframework.gov/participant/5780. 
 
 ### IP-Anonymisierung
+
 Die Google Analytics IP-Anonymisierung ist aktiviert. Dadurch wird deine IP-Adresse von Google innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum vor der Übermittlung in die USA gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um deine Nutzung der Website auszuwerten, Reports über die Websiteaktivitäten zusammenzustellen und weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber zu erbringen. Die im Rahmen von Google Analytics von deinem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt.
 
 ### Browser-Plugin
+
 Du kannst die Erfassung und Verarbeitung deiner Daten durch Google verhindern, indem du das unter dem folgenden Link verfügbare Browser-Plugin herunterlädst und installierst:
 https://tools.google.com/dlpage/gaoptout?hl=de.
 
@@ -429,12 +492,15 @@ Mehr Informationen zum Umgang mit Nutzerdaten bei Google Analytics findest du in
 https://support.google.com/analytics/answer/6004245?hl=de.
 
 ### Google-Signale
+
 Wir nutzen Google-Signale. Wenn du unsere Website besuchst, erfasst Google Analytics u. a. deinen Standort, Suchverlauf und YouTube-Verlauf sowie demografische Daten (Besucherdaten). Diese Daten können mit Hilfe von Google-Signal für personalisierte Werbung verwendet werden. Wenn du über ein Google-Konto verfügst, werden die Besucherdaten von Google-Signal mit deinem Google-Konto verknüpft und für personalisierte Werbebotschaften verwendet. Die Daten werden außerdem für die Erstellung anonymisierter Statistiken zum Nutzerverhalten unserer User verwendet.
 
 ### Google Analytics E-Commerce-Messung
+
 Diese Website nutzt die Funktion „E-Commerce-Messung“ von Google Analytics. Mit Hilfe von E-Commerce-Messung kann der Websitebetreiber das Kaufverhalten der Websitebesucher zur Verbesserung seiner Online-Marketing-Kampagnen analysieren. Hierbei werden Informationen, wie zum Beispiel die getätigten Bestellungen, durchschnittliche Bestellwerte, Versandkosten und die Zeit von der Ansicht bis zum Kauf eines Produktes erfasst. Diese Daten können von Google unter einer Transaktions-ID zusammengefasst werden, die dem jeweiligen Nutzer bzw. dessen Gerät zugeordnet ist.
 
 ### Meta-Pixel (ehemals Facebook Pixel)
+
 Diese Website nutzt zur Konversionsmessung den Besucheraktions-Pixel von Meta. Anbieter dieses Dienstes ist die Meta Platforms Ireland Limited, 4 Grand Canal Square, Dublin 2, Irland. Die erfassten Daten werden nach Aussage von Meta jedoch auch in die USA und in andere Drittländer übertragen.
 
 So kann das Verhalten der Seitenbesucher nachverfolgt werden, nachdem diese durch Klick auf eine Meta-Werbeanzeige auf die Website des Anbieters weitergeleitet wurden. Dadurch kann die Wirksamkeit der Meta-Werbeanzeigen für statistische und Marktforschungszwecke ausgewertet werden und zukünftige Werbemaßnahmen optimiert werden.
@@ -449,13 +515,18 @@ Der erweiterte Abgleich ermöglicht uns, verschiedene Arten von Daten (z. B. Woh
 
 Soweit mit Hilfe des hier beschriebenen Tools personenbezogene Daten auf unserer Website erfasst und an Meta weitergeleitet werden, sind wir und die Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland gemeinsam für diese Datenverarbeitung verantwortlich (Art. 26 DSGVO). Die gemeinsame Verantwortlichkeit beschränkt sich dabei ausschließlich auf die Erfassung der Daten und deren Weitergabe an Meta. Die nach der Weiterleitung erfolgende Verarbeitung durch Meta ist nicht Teil der gemeinsamen Verantwortung. Die uns gemeinsam obliegenden Verpflichtungen wurden in einer Vereinbarung über gemeinsame Verarbeitung festgehalten. Den Wortlaut der Vereinbarung finden Sie unter: https://www.facebook.com/legal/controller_addendum. Laut dieser Vereinbarung sind wir für die Erteilung der Datenschutzinformationen beim Einsatz des Meta-Tools und für die datenschutzrechtlich sichere Implementierung des Tools auf unserer Website verantwortlich. Für die Datensicherheit der Meta-Produkte ist Meta verantwortlich. Betroffenenrechte (z. B. Auskunftsersuchen) hinsichtlich der bei Facebook oder Instagram verarbeiteten Daten können Sie direkt bei Meta geltend machen. Wenn Sie die Betroffenenrechte bei uns geltend machen, sind wir verpflichtet, diese an Meta weiterzuleiten.
 
-Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Kommission gestützt. Details finden Sie hier: https://www.facebook.com/legal/EU_data_transfer_addendum und https://de-de.facebook.com/help/566994660333381.
+Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Kommission gestützt.
+Details finden Sie hier:
+* https://www.facebook.com/legal/EU_data_transfer_addendum
+* https://de-de.facebook.com/help/566994660333381.
 
 In den Datenschutzhinweisen von Meta finden Sie weitere Hinweise zum Schutz Ihrer Privatsphäre: https://de-de.facebook.com/about/privacy/.
 
 Sie können außerdem die Remarketing-Funktion „Custom Audiences” im Bereich Einstellungen für Werbeanzeigen unter https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen deaktivieren. Dazu müssen Sie bei Facebook angemeldet sein.
 
-Wenn Sie kein Konto bei Facebook oder Instagram besitzen, können Sie nutzungsbasierte Werbung von Meta auf der Website der European Interactive Digital Advertising Alliance deaktivieren: http://www.youronlinechoices.com/de/praferenzmanagement/.
+Wenn Sie kein Konto bei Facebook oder Instagram besitzen, können Sie nutzungsbasierte Werbung von Meta auf der Website der European Interactive Digital Advertising Alliance deaktivieren: 
+
+http://www.youronlinechoices.com/de/praferenzmanagement/.
 
 Das Unternehmen verfügt über eine Zertifizierung nach dem „EU-US Data Privacy Framework“ (DPF). Der DPF ist ein Übereinkommen zwischen der Europäischen Union und den USA, der die Einhaltung europäischer Datenschutzstandards bei Datenverarbeitungen in den USA gewährleisten soll. Jedes nach dem DPF zertifizierte Unternehmen verpflichtet sich, diese Datenschutzstandards einzuhalten. Weitere Informationen hierzu erhalten Sie vom Anbieter unter folgendem Link: https://www.dataprivacyframework.gov/participant/4452.
 
@@ -471,7 +542,9 @@ Die Nutzung dieses Dienstes erfolgt auf Grundlage Ihrer Einwilligung nach Art. 6
 
 Soweit mit Hilfe des hier beschriebenen Tools personenbezogene Daten auf unserer Website erfasst und an Meta weitergeleitet werden, sind wir und die Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland gemeinsam für diese Datenverarbeitung verantwortlich (Art. 26 DSGVO). Die gemeinsame Verantwortlichkeit beschränkt sich dabei ausschließlich auf die Erfassung der Daten und deren Weitergabe an Meta. Die nach der Weiterleitung erfolgende Verarbeitung durch Meta ist nicht Teil der gemeinsamen Verantwortung. Die uns gemeinsam obliegenden Verpflichtungen wurden in einer Vereinbarung über gemeinsame Verarbeitung festgehalten. Den Wortlaut der Vereinbarung finden Sie unter: https://www.facebook.com/legal/controller_addendum. Laut dieser Vereinbarung sind wir für die Erteilung der Datenschutzinformationen beim Einsatz des Meta-Tools und für die datenschutzrechtlich sichere Implementierung des Tools auf unserer Website verantwortlich. Für die Datensicherheit der Meta-Produkte ist Meta verantwortlich. Betroffenenrechte (z. B. Auskunftsersuchen) hinsichtlich der bei Facebook oder Instagram verarbeiteten Daten können Sie direkt bei Meta geltend machen. Wenn Sie die Betroffenenrechte bei uns geltend machen, sind wir verpflichtet, diese an Meta weiterzuleiten.
 
-Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Kommission gestützt. Details finden Sie hier: https://www.facebook.com/legal/EU_data_transfer_addendum und https://de-de.facebook.com/help/566994660333381.
+Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Kommission gestützt. Details findest Du hier:
+* https://www.facebook.com/legal/EU_data_transfer_addendum
+* https://de-de.facebook.com/help/566994660333381.
 
 In den Datenschutzhinweisen von Meta finden Sie weitere Hinweise zum Schutz Ihrer Privatsphäre: https://de-de.facebook.com/about/privacy/.
 
@@ -482,6 +555,7 @@ Wenn Sie kein Konto bei Facebook oder Instagram besitzen, können Sie nutzungsba
 Das Unternehmen verfügt über eine Zertifizierung nach dem „EU-US Data Privacy Framework“ (DPF). Der DPF ist ein Übereinkommen zwischen der Europäischen Union und den USA, der die Einhaltung europäischer Datenschutzstandards bei Datenverarbeitungen in den USA gewährleisten soll. Jedes nach dem DPF zertifizierte Unternehmen verpflichtet sich, diese Datenschutzstandards einzuhalten. Weitere Informationen hierzu erhalten Sie vom Anbieter unter folgendem Link: https://www.dataprivacyframework.gov/participant/4452.
 
 ### Meta Custom Audiences
+
 Wir nutzen Meta Custom Audiences. Anbieter dieses Dienstes ist die Meta Platforms Ireland Limited, 4 Grand Canal Square, Dublin 2, Irland.
 
 Wenn Sie unsere Webseiten und Apps besuchen bzw. nutzen, unsere kostenlosen oder kostenpflichtigen Angebote in Anspruch nehmen, Daten an uns übermitteln oder mit den Facebook- oder Instagram-Inhalten unseres Unternehmens interagieren, erfassen wir hierbei Ihre personenbezogenen Daten. Sofern Sie uns eine Einwilligung zur Nutzung von Meta Custom Audiences erteilen, werden wir diese Daten an Meta übermitteln, mit denen Meta Ihnen passende Werbung ausspielen kann. Des Weiteren können mit Ihren Daten Zielgruppen definiert werden (Lookalike Audiences).
@@ -490,11 +564,14 @@ Meta verarbeitet diese Daten als unser Auftragsverarbeiter. Details sind der Nut
 
 Die Nutzung dieses Dienstes erfolgt auf Grundlage Ihrer Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO und § 25 Abs. 1 TDDDG. Die Einwilligung ist jederzeit widerrufbar.
 
-Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Kommission gestützt. Details finden Sie hier: https://www.facebook.com/legal/terms/customaudience und https://www.facebook.com/legal/terms/dataprocessing.
+Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Kommission gestützt. Details findest Du Sie hier:
+* https://www.facebook.com/legal/terms/customaudience
+* https://www.facebook.com/legal/terms/dataprocessing
 
 Das Unternehmen verfügt über eine Zertifizierung nach dem „EU-US Data Privacy Framework“ (DPF). Der DPF ist ein Übereinkommen zwischen der Europäischen Union und den USA, der die Einhaltung europäischer Datenschutzstandards bei Datenverarbeitungen in den USA gewährleisten soll. Jedes nach dem DPF zertifizierte Unternehmen verpflichtet sich, diese Datenschutzstandards einzuhalten. Weitere Informationen hierzu erhalten Sie vom Anbieter unter folgendem Link: https://www.dataprivacyframework.gov/participant/4452.
 
 ### Google reCAPTCHA
+
 Wir nutzen „Google reCAPTCHA“ (im Folgenden „reCAPTCHA“) auf dieser Website. Anbieter ist die Google Ireland Limited („Google“), Gordon House, Barrow Street, Dublin 4, Irland.
 
 Mit reCAPTCHA soll überprüft werden, ob die Dateneingabe auf dieser Website (z. B. in einem Kontaktformular) durch einen Menschen oder durch ein automatisiertes Programm erfolgt. Hierzu analysiert reCAPTCHA dein Verhalten auf der Website anhand verschiedener Merkmale. Diese Analyse beginnt automatisch, sobald du die Website betrittst. Zur Analyse wertet reCAPTCHA verschiedene Informationen aus (z. B. deine IP-Adresse, die Verweildauer auf der Website oder von dir getätigte Mausbewegungen). Die bei der Analyse erfassten Daten werden an Google weitergeleitet.
@@ -508,6 +585,7 @@ Weitere Informationen zu Google reCAPTCHA findest du in den Google-Datenschutzbe
 Das Unternehmen verfügt über eine Zertifizierung nach dem „EU-US Data Privacy Framework“ (DPF). Der DPF ist ein Übereinkommen zwischen der Europäischen Union und den USA, der die Einhaltung europäischer Datenschutzstandards bei Datenverarbeitungen in den USA gewährleisten soll. Jedes nach dem DPF zertifizierte Unternehmen verpflichtet sich, diese Datenschutzstandards einzuhalten. Weitere Informationen hierzu erhältst du vom Anbieter unter folgendem Link: https://www.dataprivacyframework.gov/participant/5780.
 
 ### Newsletter
+
 Auf unserer Internetseite besteht die Möglichkeit, kostenfreie Newsletter zu abonnieren. Dabei werden bei der Anmeldung zum Newsletter die Daten aus der Eingabemaske an uns übermittelt. Die Erhebung der E-Mail-Adresse des Nutzers dient dazu, den Newsletter zuzustellen. Die Erhebung von Vor- und Nachname dienst ausschließlich der persönlichen Ansprache im Newsletter. Zusätzlich werden folgende Daten übermittelt: 
 * IP-Adresse des aufrufenden Computers 
 * Datum und Uhrzeit der Registrierung
@@ -547,6 +625,7 @@ Nach deiner Austragung aus der Newsletterverteilerliste wird deine E-Mail-Adress
 Näheres findest du in den Datenschutzbestimmungen von CleverReach unter: https://www.cleverreach.com/de/datenschutz/.
 
 ### OpenStreetMap
+
 Wir verwenden auf einigen Seiten eine Applikation von OpenStreetMap zur Anzeige von Kartenausschnitten. OpenStreetMap ist eine Karte der Welt, freiwillig und gemeinnützig erstellt von Menschen wie dir und frei verwendbar unter einer offenen Lizenz. OpenStreetMap sind „Open Data“, die gemäß der Open Data Commons Open Database Lizenz (ODbL) durch die OpenStreetMap Foundation (OSMF) frei verfügbar sind. Bei der Nutzung eines Kartenausschnittes werden folgende Daten an die OSMF übermittelt: 
 * Die IP-Adresse 
 * Häufigkeit von Seitenaufrufen 
@@ -561,6 +640,7 @@ Rechtsgrundlage für die Verarbeitung der Daten mit OpenStreetMapsn durch die Nu
 Die Nutzung von OpenStreetMap erfolgt im Interesse einer ansprechenden Darstellung unserer Online-Angebote und einer leichten Auffindbarkeit der von uns auf der Website angegebenen Orte. Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar. Sofern eine entsprechende Einwilligung abgefragt wurde, erfolgt die Verarbeitung ausschließlich auf Grundlage von Art. 6 Abs. 1 lit. a DSGVO und § 25 Abs. 1 TDDDG, soweit die Einwilligung die Speicherung von Cookies oder den Zugriff auf Informationen im Endgerät des Nutzers (z. B. Device-Fingerprinting) im Sinne des TDDDG umfasst. Die Einwilligung ist jederzeit widerrufbar.
 
 ### YouTube-Videos
+
 Wir betten auf einigen Seiten YouTube-Videos ein. Die Videos werden im „erweiterten Datenschutzmodus“ eingebettet. Betreiber der Website ist die Google Ireland Limited („Google”), Gordon House, Barrow Street, Dublin 4, Irland.
 
 Im erweiterten Datenschutzmodus werden nach Angaben von YouTube keine Cookies gesetzt, solange das Video nicht von der Nutzerin oder dem Nutzer angesehen wird. Stattdessen werden jedoch sogenannte Local Storage Elemente im Browser gespeichert, die ähnlich wie Cookies personenbezogene Daten beinhalten und zur Wiedererkennung eingesetzt werden können. Beim Ansehen eines Videos werden Daten an Google übertragen, unter anderem:
@@ -607,6 +687,7 @@ Wir haben keinen Einfluss auf Art und Umfang der durch Bluesky verarbeiteten Dat
 https://blueskyweb.xyz/support/privacy-policy
 
 #### Rechtsgrundlage:
+
 Die Verarbeitung der Daten durch Bluesky erfolgt auf Grundlage deiner Einwilligung (Art. 6 Abs. 1 lit. a DSGVO), sofern eine solche abgefragt wurde. Alternativ kann die Verarbeitung auf Grundlage eines berechtigten Interesses (Art. 6 Abs. 1 lit. f DSGVO) erfolgen, etwa zur Kommunikation und Interaktion mit Nutzerinnen und Nutzern oder zur Öffentlichkeitsarbeit.
 
 ### Eingebettete Tweets von Twitter (X)
@@ -632,11 +713,13 @@ Twitter (X) verwendet die im Rahmen der Dienste erhobenen Daten zur Bereitstellu
 Die Verarbeitung der Daten durch Twitter (X) erfolgt auf Grundlage deiner Einwilligung (Art. 6 Abs. 1 lit. a DSGVO und § 25 Abs. 1 TDDDG), sofern eine solche abgefragt wurde. Die Einwilligung ist jederzeit widerrufbar.
 
 #### Datenübertragung in die USA:
+
 Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Kommission gestützt. Details findest du hier: https://gdpr.x.com/en/controller-to-controller-transfers.html.
 
 Das Unternehmen verfügt über eine Zertifizierung nach dem „EU-US Data Privacy Framework“ (DPF). Der DPF ist ein Übereinkommen zwischen der Europäischen Union und den USA, der die Einhaltung europäischer Datenschutzstandards bei Datenverarbeitungen in den USA gewährleisten soll. Jedes nach dem DPF zertifizierte Unternehmen verpflichtet sich, diese Datenschutzstandards einzuhalten. Weitere Informationen hierzu erhältst du vom Anbieter unter folgendem Link: https://www.dataprivacyframework.gov/participant/2710.
 
 #### Datenschutzrichtlinien und Einstellungen:
+
 Die Datenschutzrichtlinien von Twitter (X) findest du unter: https://twitter.com/privacy?lang=de bzw. https://x.com/de/privacy
 Deine Datenschutzeinstellungen bei X (ehemals Twitter) kannst du in den Konto-Einstellungen unter https://x.com/settings/account ändern.
 
@@ -661,9 +744,11 @@ Wenn das Social-Media-Element aktiv ist, wird eine direkte Verbindung zwischen d
 Meta verwendet die im Rahmen der Dienste erhobenen Daten zur Bereitstellung, zur Wartung, zum Schutz und zur Verbesserung der Dienste, zur Entwicklung neuer Dienste sowie zum Schutz von Meta und seinen Nutzerinnen und Nutzern.
 
 #### Rechtsgrundlage:
+
 Die Nutzung dieses Dienstes erfolgt auf Grundlage deiner Einwilligung (Art. 6 Abs. 1 lit. a DSGVO und § 25 Abs. 1 TDDDG). Die Einwilligung ist jederzeit widerrufbar.
 
 #### Gemeinsame Verantwortlichkeit:
+
 Soweit mit Hilfe des hier beschriebenen Tools personenbezogene Daten auf unserer Website erfasst und an Meta weitergeleitet werden, sind wir und die Meta Platforms Ireland Limited gemeinsam für diese Datenverarbeitung verantwortlich (Art. 26 DSGVO). Die gemeinsame Verantwortlichkeit beschränkt sich dabei ausschließlich auf die Erfassung der Daten und deren Weitergabe an Meta. Die nach der Weiterleitung erfolgende Verarbeitung durch Meta ist nicht Teil der gemeinsamen Verantwortung.
 
 Die uns gemeinsam obliegenden Verpflichtungen wurden in einer Vereinbarung über gemeinsame Verarbeitung festgehalten. Den Wortlaut der Vereinbarung findest du unter: https://www.facebook.com/legal/controller_addendum.
@@ -673,19 +758,26 @@ Wir sind für die Erteilung der Datenschutzinformationen beim Einsatz des Meta-T
 Betroffenenrechte (z. B. Auskunftsersuchen) hinsichtlich der bei Meta verarbeiteten Daten kannst du direkt bei Meta geltend machen. Wenn du die Betroffenenrechte bei uns geltend machst, sind wir verpflichtet, diese an Meta weiterzuleiten.
 
 #### Datenübertragung in die USA:
+
 Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Kommission gestützt. Details findest du hier:
+
 https://www.facebook.com/legal/EU_data_transfer_addendum
+
 https://de-de.facebook.com/help/566994660333381
+
 https://www.facebook.com/policy.php
 
 #### EU-US Data Privacy Framework (DPF):
+
 Das Unternehmen verfügt über eine Zertifizierung nach dem „EU-US Data Privacy Framework“ (DPF). Der DPF ist ein Übereinkommen zwischen der Europäischen Union und den USA, der die Einhaltung europäischer Datenschutzstandards bei Datenverarbeitungen in den USA gewährleisten soll. Jedes nach dem DPF zertifizierte Unternehmen verpflichtet sich, diese Datenschutzstandards einzuhalten. Weitere Informationen hierzu erhältst du vom Anbieter unter folgendem Link:
 https://www.dataprivacyframework.gov/participant/4452
 
 #### Datenschutzrichtlinien:
+
 https://www.facebook.com/privacy/policy/?locale=de_DE
 
 ### Eingebettete Posts von Instagram (Meta)
+
 Wir betten auf einigen Seiten Instagram-Posts ein. Beim Ansehen eines eingebetteten Posts können Daten an Meta weitergegeben werden. Anbieter des Dienstes ist die Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland. Die erfassten Daten werden nach Aussage von Meta jedoch auch in die USA und in andere Drittländer übertragen.
 
 Folgende Daten können an Meta übertragen werden:
@@ -703,32 +795,46 @@ Wenn das Social-Media-Element aktiv ist, wird eine direkte Verbindung zwischen d
 Meta verwendet die im Rahmen der Dienste erhobenen Daten zur Bereitstellung, zur Wartung, zum Schutz und zur Verbesserung der Dienste, zur Entwicklung neuer Dienste sowie zum Schutz von Meta und seinen Nutzerinnen und Nutzern.
 
 #### Rechtsgrundlage:
+
 Die Nutzung dieses Dienstes erfolgt auf Grundlage deiner Einwilligung (Art. 6 Abs. 1 lit. a DSGVO und § 25 Abs. 1 TDDDG). Die Einwilligung ist jederzeit widerrufbar.
 
 #### Gemeinsame Verantwortlichkeit:
+
 Soweit mit Hilfe des hier beschriebenen Tools personenbezogene Daten auf unserer Website erfasst und an Meta weitergeleitet werden, sind wir und die Meta Platforms Ireland Limited gemeinsam für diese Datenverarbeitung verantwortlich (Art. 26 DSGVO). Die gemeinsame Verantwortlichkeit beschränkt sich dabei ausschließlich auf die Erfassung der Daten und deren Weitergabe an Meta. Die nach der Weiterleitung erfolgende Verarbeitung durch Meta ist nicht Teil der gemeinsamen Verantwortung.
 
-Die uns gemeinsam obliegenden Verpflichtungen wurden in einer Vereinbarung über gemeinsame Verarbeitung festgehalten. Den Wortlaut der Vereinbarung findest du unter: https://www.facebook.com/legal/controller_addendum.
+Die uns gemeinsam obliegenden Verpflichtungen wurden in einer Vereinbarung über gemeinsame Verarbeitung festgehalten. Den Wortlaut der Vereinbarung findest du unter:
+
+https://www.facebook.com/legal/controller_addendum.
 
 Wir sind für die Erteilung der Datenschutzinformationen beim Einsatz des Instagram-Tools und für die datenschutzrechtlich sichere Implementierung des Tools auf unserer Website verantwortlich. Für die Datensicherheit der Instagram-Produkte ist Meta verantwortlich.
+
 Betroffenenrechte (z. B. Auskunftsersuchen) hinsichtlich der bei Instagram verarbeiteten Daten kannst du direkt bei Meta geltend machen. Wenn du die Betroffenenrechte bei uns geltend machst, sind wir verpflichtet, diese an Meta weiterzuleiten.
 
 #### Datenübertragung in die USA:
+
 Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Kommission gestützt. Details findest du hier:
+
 https://www.facebook.com/legal/EU_data_transfer_addendum
+
 https://privacycenter.instagram.com/policy/
+
 https://de-de.facebook.com/help/566994660333381
 
 #### EU-US Data Privacy Framework (DPF):
+
 Das Unternehmen verfügt über eine Zertifizierung nach dem „EU-US Data Privacy Framework“ (DPF). Der DPF ist ein Übereinkommen zwischen der Europäischen Union und den USA, der die Einhaltung europäischer Datenschutzstandards bei Datenverarbeitungen in den USA gewährleisten soll. Jedes nach dem DPF zertifizierte Unternehmen verpflichtet sich, diese Datenschutzstandards einzuhalten. Weitere Informationen hierzu erhältst du vom Anbieter unter folgendem Link:
+
 https://www.dataprivacyframework.gov/participant/4452
 
 #### Datenschutzrichtlinien:
+
 https://privacycenter.instagram.com/policy/
+
 https://about.instagram.com/de-de/safety/privacy
 
 ### Mitglied werden
-Auf unserer Internetseite bieten wir Ihnen die Möglichkeit, unter Angabe personenbezogener Daten Mitglied der GEW zu werden. Die Daten, die Sie dazu in die Eingabemaske eingeben, werden verschlüsselt an uns übermittelt und gespeichert. Die Daten werden zudem automatisch und verschlüsselt an einen geschützen Server der Mitgliederverwaltung übergeben. Folgende Daten werden zudem im Rahmen des Registrierungsprozesses erhoben: 
+Auf unserer Internetseite bieten wir Ihnen die Möglichkeit, unter Angabe personenbezogener Daten Mitglied der GEW zu werden. Die Daten, die Sie dazu in die Eingabemaske eingeben, werden verschlüsselt an uns übermittelt und gespeichert. Die Daten werden zudem automatisch und verschlüsselt an einen geschützen Server der Mitgliederverwaltung übergeben. Folgende Daten werden zudem im Rahmen des Registrierungsprozesses erhoben:
+
 * Datum und Uhrzeit der Registrierung
 
 Diese Daten benötigen wir zu Erfüllung unseres Vertrages mit den Mitgliedern. Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind. Dies ist für die während des Registrierungsvorgangs zur Erfüllung eines Vertrags oder zur Durchführung vorvertraglicher Maßnahmen dann der Fall, wenn die Daten für die Durchführung des Vertrages nicht mehr erforderlich sind. Auch nach Abschluss des Vertrags kann eine Erforderlichkeit, personenbezogene Daten des Vertragspartners zu speichern, bestehen, um vertraglichen oder gesetzlichen Verpflichtungen nachzukommen.
@@ -738,7 +844,9 @@ Als Nutzer haben sie jederzeit die Möglichkeit, die Registrierung aufzulösen. 
 Rechtsgrundlage für die Verarbeitung der Daten ist bei Vorliegen einer Einwilligung des Nutzers Art. 6 Abs. 1 lit. a DSGVO. Da die Daten außerdem der Vertragserfüllung zwischen GEW und Mitglied dienen, ist zusätzliche Rechtsgrundlage für die Verarbeitung der Daten Art.6 Abs.1 lit. b DSGVO.
 
 ### Prämie bestellen
+
 Auf unserer Internetseite bieten wir Ihnen die Möglichkeit, unter Angabe personenbezogener Daten Mitglied der GEW zu werden und unter besonderen Voraussetzungen auch eine Prämie zu bestellen. Die Daten, die Sie dazu in die Eingabemaske eingeben, werden verschlüsselt an uns übermittelt und gespeichert. Die Daten werden zudem automatisch und verschlüsselt an einen geschützen Server der Mitgliederverwaltung übergeben. Folgende Daten werden zudem im Rahmen des Registrierungsprozesses erhoben:
+
 * Datum und Uhrzeit der Registrierung
 
 Zum Versand der Prämie übermitteln wir außerdem die Daten der Werberin oder des Werbers an unseren Dienstleister Call a Gift. Dabei werden die oben genannten Daten in unserem Auftrag von Call a Gift verarbeitet. Für die Verarbeitung der Daten wird im Rahmen des Anmeldevorgang Ihre Einwilligung eingeholt und auf diese Datenschutzerklärung verwiesen.
@@ -751,7 +859,8 @@ Rechtsgrundlage für die Verarbeitung der Daten ist bei Vorliegen einer Einwilli
 
 ### Einen Nutzeraccount anlegen
 
-Auf unserer Internetseite bieten wir Ihnen die Möglichkeit, unter Angabe personenbezogener Daten einen Nutzeraccount zusätzlich zur GEW-Mitgliedschaft zu erstellen, um besondere Services nutzen zu können. Die Daten, die Sie dazu in die Eingabemaske eingeben werden verschlüsselt an uns übermittelt und gespeichert. Folgende Daten werden zudem im Rahmen des Registrierungsprozesses erhoben: 
+Auf unserer Internetseite bieten wir Ihnen die Möglichkeit, unter Angabe personenbezogener Daten einen Nutzeraccount zusätzlich zur GEW-Mitgliedschaft zu erstellen, um besondere Services nutzen zu können. Die Daten, die Sie dazu in die Eingabemaske eingeben werden verschlüsselt an uns übermittelt und gespeichert. Folgende Daten werden zudem im Rahmen des Registrierungsprozesses erhoben:
+
 * Datum und Uhrzeit der Registrierung 
 
 Diese Daten benötigen wir zu Erfüllung unseres Vertrages mit den Mitgliedern. Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind. Dies ist für die während des Registrierungsvorgangs zur Erfüllung eines Vertrags oder zur Durchführung vorvertraglicher Maßnahmen dann der Fall, wenn die Daten für die Durchführung des Vertrages nicht mehr erforderlich sind. Auch nach Abschluss des Vertrags kann eine Erforderlichkeit, personenbezogene Daten des Vertragspartners zu speichern, bestehen, um vertraglichen oder gesetzlichen Verpflichtungen nachzukommen.
@@ -806,6 +915,7 @@ Der Nutzer hat jederzeit die Möglichkeit, seine Einwilligung zur Verarbeitung d
 Alle personenbezogenen Daten, die im Zuge der Kontaktaufnahme gespeichert wurden, werden in diesem Fall gelöscht.
 
 ### Weitere Formulare
+
 Auf unserer Internetseite sind an weiteren Stellen, z.B. zur Veranstaltungsanmeldung, Formulare zur Kontaktaufnahme vorhanden. Nehmen Nutzerinnen und Nutzer diese Möglichkeit wahr, so werden die in der Eingabemaske eingegeben Daten an uns übermittelt und gespeichert. Im Zeitpunkt der Absendung der Formulardaten werden zudem folgende Daten gespeichert: 
 * Datum und Uhrzeit der Kontaktaufnahme
 
@@ -820,6 +930,6 @@ Rechtsgrundlage für die Verarbeitung der Daten ist bei Vorliegen einer Einwilli
 Rechtsgrundlage für die Verarbeitung der Daten, die im Zuge einer Übersendung einer E-Mail übermittelt werden, ist Art. 6 Abs. 1 lit. f DSGVO. Zielt der E-Mail-Kontakt auf den Abschluss eines Vertrages ab, so ist zusätzliche Rechtsgrundlage für die Verarbeitung Art. 6 Abs. 1 lit. b DSGVO.
  
 ### An wen kann ich mich wenden?
-Sie haben Fragen zu den bei uns gespeicherten Daten? Sie möchten ihre Einwilligung widerrufen, der Speicherung der Daten widersprechen, die bei uns gespeicherten Daten gelöscht oder korrigiert haben oder aber ihre Daten gern an eine andere Organisation übertragen lassen, dann wenden Sie sich bitte an 
-***[datenschutz[at]gew.de](mailto:datenschutz@gew.de)***
+
+Sie haben Fragen zu den bei uns gespeicherten Daten? Sie möchten ihre Einwilligung widerrufen, der Speicherung der Daten widersprechen, die bei uns gespeicherten Daten gelöscht oder korrigiert haben oder aber ihre Daten gern an eine andere Organisation übertragen lassen, dann wenden Sie sich bitte an ***[datenschutz[at]gew.de](mailto:datenschutz@gew.de)***.
 
