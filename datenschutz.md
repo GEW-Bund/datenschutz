@@ -344,6 +344,33 @@ Die Erfassung der Daten zur Bereitstellung der Website und die Speicherung der D
 
 Rechtsgrundlage für die vorübergehende Speicherung der Daten und der Logfiles ist Art.6 Abs. 1 lit.f DSGVO.
 
+### Einsatz von Adform
+
+Diese Website nutzt Dienste der Adform A/S, Wildersgade 10B, 1408 Copenhagen, Dänemark.
+
+Wir verwenden Adform zur Analyse des Nutzerverhaltens, zur Ausspielung personalisierter Werbung sowie zur Messung von Kampagnenerfolgen (Conversion Tracking). Dabei werden Informationen über Ihre Nutzung unserer Website verarbeitet, um Ihnen auf anderen Webseiten interessenbezogene Werbung anzeigen zu können (Retargeting).
+
+Verarbeitete Daten:
+*	IP-Adresse (ggf. anonymisiert)
+*	Cookie-ID / Mobile Advertising ID
+*	Browser- und Gerätedaten
+*	Besuchte Seiten und Interaktionen
+*	Zeitstempel und Referrer-URL
+*	Geostandortdaten (z. B. Stadt, Region)
+
+Die Verarbeitung erfolgt auf Grundlage Ihrer Einwilligung gemäß Art. 6 Abs. 1 S. 1 lit. a DSGVO. Sie können Ihre Einwilligung jederzeit über unser Consent Management Tool widerrufen.
+
+Adform setzt Cookies, um Nutzer wiederzuerkennen und deren Verhalten zu analysieren. Die Cookies haben eine maximale Lebensdauer von 60 Tagen. Weitere Informationen zu den eingesetzten Cookies finden Sie unter:
+
+https://site.adform.com/privacy-center/platform-privacy/product-and-services-privacy-policy/
+
+Adform kann Daten an Partnerunternehmen und Server außerhalb der EU übermitteln. Dabei werden die Vorgaben der DSGVO eingehalten. Adform ist Teil des IAB Transparency & Consent Frameworks.
+
+Sie können der Verarbeitung jederzeit widersprechen oder Ihre Einwilligung widerrufen. Nutzen Sie dazu die Einstellungen in unserem Cookie-Banner oder besuchen Sie:
+
+https://site.adform.com/privacy-center/platform-privacy/right-to-be-forgotten/
+
+
 ### Redaktionelle Aufbereitung mit Datawrapper
 
 Mit Dienst von Datawrapper erstellen wir Infografiken für unsere Beiträge. Wenn Sie diese Infografiken aufrufen, werden zwar generelle Nutzungsdaten erfasst, aber keine spezifischen Daten wie etwa Ihre IP-Adresse gespeichert. Auch darüber hinaus werden von Datawrapper keine Daten erhoben oder gar an kommerzielle Dritte weitergegeben. Mehr zum Datenschutz beim Datawrapper finden Sie auf [https://www.datawrapper.de/privacy](https://www.datawrapper.de/privacy)
