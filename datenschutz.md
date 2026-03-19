@@ -72,6 +72,15 @@ Grundsätzlich gilt, dass der Widerruf einer Einwilligung erst für die Zukunft 
 
 Wie jeder, der sich am Wirtschaftsgeschehen beteiligt, unterliegen auch wir einer Vielzahl von rechtlichen Verpflichtungen. Primär sind dies gesetzliche Anforderungen (z. B. Handels- und Steuergeset-ze), aber auch ggf. aufsichtsrechtliche oder andere behördliche Vorgaben. Zu den Zwecken der Verarbeitung gehören ggf. die Iden-titäts- und Altersprüfung, Betrugs- und Geldwäscheprävention, die Verhinderung, Bekämpfung und Aufklärung der Terrorismusfinan-zierung und vermögensgefährdender Straftaten, Abgleiche mit eu-ropäischen und internationalen Antiterrorlisten, die Erfüllung steu-errechtlicher Kontroll- und Meldepflichten sowie die Archivierung von Daten zu Zwecken des Datenschutzes und der Datensicherheit sowie der Prüfung durch Steuer- und andere Behörden. Darüber hinaus kann die Offenlegung personenbezogener Daten im Rah-men von behördlichen/gerichtlichen Maßnahmen zu Zwecken der Beweiserhebung, Strafverfolgung oder Durchsetzung zivilrechtli-cher Ansprüche erforderlich werden.
 
+## 2.5 Sicherheitstechnologien (Cloudflare DNS‑Proxy, WAF, Turnstile)
+ 
+* DNS‑Proxy: Wir leiten DNS‑Abfragen über Cloudflare. Dabei werden
+IP‑Adresse und abgefragte Domain für maximal 24 Stunden protokolliert.
+* WAF: Der Cloudflare‑Web‑Application‑Firewall prüft jede HTTP‑Anfrage. IP‑Adresse, User‑Agent, URL und Regel‑Ergebnis werden für max. 30 Tage gespeichert, um Angriffe zu erkennen und zu dokumentieren.
+* Turnstile: Das Cloudflare‑Turnstile‑Widget schützt Formulare vor Bots. Es setzt ein Session‑Cookie, das nach erfolgreicher Validierung gelöscht wird.
+* Die von Turnstile gesammelten Signale sind technisch notwendig, um Bots zu erkennen und zu blockieren, damit die Webseite und die Daten der Besucher*innen sicher und geschützt bleiben. Siehe dazu: https://www.cloudflare.com/de-de/turnstile-privacy-policy/
+* Rechtsgrundlage: Art. 6 Abs. 1  lit. b DSGVO (Dienstleistung) und Art. 6 Abs. 1  lit. f DSGVO (berechtigtes Interesse).
+
 ### 3.	Die von uns verarbeiteten Datenkategorien, soweit wir Daten nicht unmittelbar von Ihnen erhalten, und deren Herkunft
 
 Soweit dies für die Erbringung unserer Dienstleistungen erfor-derlich ist, verarbeiten wir von anderen Unternehmen oder sonstigen Dritten (z. B. Auskunfteien, Adressverlage, GEW-Landesverbände, Gliederungen der GEW, der DGB Rechtsschutz GmbH) zulässigerweise erhaltene personenbezogene Daten. Zudem verarbeiten wir personenbezogene Daten, die wir aus öffentlich zugänglichen Quellen (wie z.B. Telefonverzeichnisse, Handels- und Vereinsregister, Melderegister, Schuldnerver-zeichnisse, Grundbücher, Presse, Internet und andere Medien) zulässigerweise entnommen, erhalten oder erworben haben und verarbeiten dürfen. 
@@ -98,6 +107,8 @@ Innerhalb unseres Hauses erhalten diejenigen internen Stellen bzw. Organisations
 *	wenn Sie uns eine Einwilligung zur Übermittlung an Dritte gegeben haben.
 
 Wir werden Ihre Daten darüber hinaus nicht an Dritte weitergeben. Soweit wir Dienstleister im Rahmen einer Auftragsverarbeitung be-auftragen, unterliegen Ihre Daten dort den gleichen Sicherheits-standards wie bei uns. In den übrigen Fällen dürfen die Empfänger die Daten nur für die Zwecke nutzen, für die sie ihnen übermittelt wurden.
+
+Wir geben darüber hinaus die in Abschnitt 3 genannten Daten ausschließlich an Cloudflare, Inc. (inkl. Cloudflare Germany, Cloudflare Canada) weiter. Cloudflare verarbeitet die Daten als Auftragsverarbeiter gemäß unserem Auftrags‑Verarbeitungs‑Vertrag (AVV). Das Unternehmen ist nach dem EU‑U.S. Data Privacy Framework zertifiziert und nutzt bei Datenübermittlungen in die USA Standard‑Contractual Clauses (SCC). Siehe dazu auch 2.5 Sicherheitstechnologien.
 
 ### 5.	Dauer der Speicherung Ihrer Daten 
 
