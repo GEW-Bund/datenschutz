@@ -72,7 +72,7 @@ Grundsätzlich gilt, dass der Widerruf einer Einwilligung erst für die Zukunft 
 
 Wie jeder, der sich am Wirtschaftsgeschehen beteiligt, unterliegen auch wir einer Vielzahl von rechtlichen Verpflichtungen. Primär sind dies gesetzliche Anforderungen (z. B. Handels- und Steuergeset-ze), aber auch ggf. aufsichtsrechtliche oder andere behördliche Vorgaben. Zu den Zwecken der Verarbeitung gehören ggf. die Iden-titäts- und Altersprüfung, Betrugs- und Geldwäscheprävention, die Verhinderung, Bekämpfung und Aufklärung der Terrorismusfinan-zierung und vermögensgefährdender Straftaten, Abgleiche mit eu-ropäischen und internationalen Antiterrorlisten, die Erfüllung steu-errechtlicher Kontroll- und Meldepflichten sowie die Archivierung von Daten zu Zwecken des Datenschutzes und der Datensicherheit sowie der Prüfung durch Steuer- und andere Behörden. Darüber hinaus kann die Offenlegung personenbezogener Daten im Rah-men von behördlichen/gerichtlichen Maßnahmen zu Zwecken der Beweiserhebung, Strafverfolgung oder Durchsetzung zivilrechtli-cher Ansprüche erforderlich werden.
 
-## 2.5 Sicherheitstechnologien (Cloudflare DNS‑Proxy, WAF, Turnstile)
+#### 2.5 Sicherheitstechnologien (Cloudflare DNS‑Proxy, WAF, Turnstile)
  
 * DNS‑Proxy: Wir leiten DNS‑Abfragen über Cloudflare. Dabei werden
 IP‑Adresse und abgefragte Domain für maximal 24 Stunden protokolliert.
