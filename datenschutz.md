@@ -2,7 +2,7 @@
 
 ### Allgemeine Information zum Datenschutz über unsere Datenverarbeitung nach Artikel 13, 14 und 21 der Datenschutz- Grundverordnung (DSGVO)
 
-(Stand 17.Juli 2025)
+(Stand 25.März 2026)
  
 ### 1.	Für die Datenverarbeitung verantwortliche Stelle und Kontaktdaten
 
@@ -74,12 +74,21 @@ Wie jeder, der sich am Wirtschaftsgeschehen beteiligt, unterliegen auch wir eine
 
 #### 2.5 Sicherheitstechnologien (Cloudflare DNS‑Proxy, WAF, Turnstile)
  
-* DNS‑Proxy: Wir leiten DNS‑Abfragen über Cloudflare. Dabei werden
-IP‑Adresse und abgefragte Domain für maximal 24 Stunden protokolliert.
-* WAF: Der Cloudflare‑Web‑Application‑Firewall prüft jede HTTP‑Anfrage. IP‑Adresse, User‑Agent, URL und Regel‑Ergebnis werden für max. 30 Tage gespeichert, um Angriffe zu erkennen und zu dokumentieren.
-* Turnstile: Das Cloudflare‑Turnstile‑Widget schützt Formulare vor Bots. Es setzt ein Session‑Cookie, das nach erfolgreicher Validierung gelöscht wird.
-* Die von Turnstile gesammelten Signale sind technisch notwendig, um Bots zu erkennen und zu blockieren, damit die Webseite und die Daten der Besucher*innen sicher und geschützt bleiben. Siehe dazu: https://www.cloudflare.com/de-de/turnstile-privacy-policy/
-* Rechtsgrundlage: Art. 6 Abs. 1  lit. b DSGVO (Dienstleistung) und Art. 6 Abs. 1  lit. f DSGVO (berechtigtes Interesse).
+##### DNS-Proxy:
+Wir leiten DNS-Abfragen über den Cloudflare DNS-Proxy. Dabei werden Ihre IP-Adresse und die abgefragte Domain für maximal 24 Stunden protokolliert. Diese Datenverarbeitung dient der Beschleunigung und Absicherung unserer Website sowie dem Schutz vor Angriffen.
+
+##### Web Application Firewall (WAF):
+Der Cloudflare Web Application Firewall (WAF) prüft jede HTTP-Anfrage, um Angriffe auf unsere Website zu erkennen und zu blockieren. Dabei werden folgende Daten für maximal 30 Tage gespeichert: Ihre IP-Adresse, der User-Agent, die aufgerufene URL sowie das Ergebnis der Regelprüfung.
+
+##### Turnstile (Bot-Schutz):
+Zur Abwehr von Bots setzen wir das Cloudflare Turnstile-Widget ein. Dieses schützt Formulare auf unserer Website, indem es technische Signale (z. B. IP-Adresse, Browserdaten, Mausbewegungen, Geräteinformationen) auswertet, um menschliche Nutzer von Bots zu unterscheiden. Die Signale werden nur für die Dauer der Session verarbeitet und nach erfolgreicher Validierung gelöscht. Eine Speicherung personenbezogener Daten zur Identifizierung einzelner Nutzer erfolgt nicht.
+
+##### Rechtsgrundlage:
+Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der Sicherheit und Funktionsfähigkeit unserer Website).
+
+##### Auftragsverarbeitung und Datenübermittlung in Drittländer:
+Cloudflare verarbeitet die genannten Daten als unser Auftragsverarbeiter gemäß Art. 28 DSGVO. Hierfür wurde eine Auftragsverarbeitungsvereinbarung (AVV) mit Cloudflare abgeschlossen. Sofern Daten in Drittländer (z. B. die USA) übermittelt werden, erfolgt dies auf Grundlage des EU-US Data Privacy Frameworks (Angemessenheitsbeschluss der EU-Kommission gemäß Art. 45 DSGVO). Weitere Informationen finden Sie in der [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/) und dem [Turnstile Privacy Addendum](https://www.cloudflare.com/turnstile-privacy-policy/).
+
 
 ### 3.	Die von uns verarbeiteten Datenkategorien, soweit wir Daten nicht unmittelbar von Ihnen erhalten, und deren Herkunft
 
@@ -108,7 +117,7 @@ Innerhalb unseres Hauses erhalten diejenigen internen Stellen bzw. Organisations
 
 Wir werden Ihre Daten darüber hinaus nicht an Dritte weitergeben. Soweit wir Dienstleister im Rahmen einer Auftragsverarbeitung be-auftragen, unterliegen Ihre Daten dort den gleichen Sicherheits-standards wie bei uns. In den übrigen Fällen dürfen die Empfänger die Daten nur für die Zwecke nutzen, für die sie ihnen übermittelt wurden.
 
-Wir geben darüber hinaus die in Abschnitt 3 genannten Daten ausschließlich an Cloudflare, Inc. (inkl. Cloudflare Germany, Cloudflare Canada) weiter. Cloudflare verarbeitet die Daten als Auftragsverarbeiter gemäß unserem Auftrags‑Verarbeitungs‑Vertrag (AVV). Das Unternehmen ist nach dem EU‑U.S. Data Privacy Framework zertifiziert und nutzt bei Datenübermittlungen in die USA Standard‑Contractual Clauses (SCC). Siehe dazu auch 2.5 Sicherheitstechnologien.
+Wir geben darüber hinaus Daten an Cloudflare, Inc. (inkl. Cloudflare Germany, Cloudflare Canada) weiter. Cloudflare verarbeitet die Daten als unser Auftragsverarbeiter gemäß Art. 28 DSGVO. Details zur Datenverarbeitung und den Rechtsgrundlagen finden Sie in Abschnitt 2.5.
 
 ### 5.	Dauer der Speicherung Ihrer Daten 
 
